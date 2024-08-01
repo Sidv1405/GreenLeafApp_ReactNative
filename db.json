@@ -379,6 +379,25 @@
       ],
       "totalAmount": 25000,
       "time": "2024-4-2 12:24:32"
+    },
+    {
+      "id": "aa19",
+      "address": "ha noi",
+      "paymentMethod": "amazon",
+      "cartItems": [
+        {
+          "name": "Cây thường xuân",
+          "price": "10000",
+          "description": "Loài cây này thường được mọi người chọn trồng trong không gian hẹp, nhỏ và nó leo tốt ở những nơi như cửa sổ, lan can... Nhờ có tán lá rậm rạp, thường xuân hấp thụ tốt phoocmon có hại - đây là một trong những chất dùng trong gỗ, thảm, nhựa, rất có hại cho sức khoẻ nếu bạn hít vào quá nhiều.",
+          "image_url": "https://free.vector6.com/wp-content/uploads/2021/03/0000000294-cay-xanh-tai-hinh-cay-canh-png-180.png",
+          "id": "8db1",
+          "size": "S",
+          "origin": "Viet Nam",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 10000,
+      "time": "2024-8-1 16:51:34"
     }
   ]
 }
